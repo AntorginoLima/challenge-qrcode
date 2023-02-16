@@ -14,7 +14,7 @@ body {
 }
 
 .conteudo {
-    width: 400px;
+    max-width: 350px;
     background-color: white;
     margin: auto;
     padding: 50px 15px;
@@ -23,10 +23,10 @@ body {
 }
 
 img {
-    width: 400px;
-    height: 400px;
+    max-width: 300px;
+    max-height: 300px;
     border-radius: 20px;
-    margin-top: -30px;
+    margin: -30 auto;
 }
 
 p {
